@@ -110,5 +110,11 @@ What do your dreams mean? Do men and women differ in the nature and intensity of
 - [Kelly D. Brownell, "PSYC 123: The Psychology, Biology And Politics Of Food", 2008](http://oyc.yale.edu/psychology/psyc-123)  
 This course encompasses the study of eating as it affects the health and well-being of every human. Topics include taste preferences, food aversions, the regulation of hunger and satiety, food as comfort and friendship, eating as social ritual, and social norms of blame for food problems. The politics of food discusses issues such as sustainable agriculture, organic farming, genetically modified foods, nutrition policy, and the influence of food and agriculture industries. Also examined are problems such as malnutrition, eating disorders, and the global obesity epidemic; the impact of food advertising aimed at children; poverty and food; and how each individual's eating is affected by the modern environment.
 
+### The University of Queensland
+- [Introduction to Psychology] (https://www.edx.org/xseries/introduction-developmental-social)
 
-https://www.edx.org/xseries/introduction-developmental-social
+### Doane University
+- [Abnormal Psychology] (https://www.edx.org/course/abnormal-psychology-2?index=product&queryID=a9cb293b86805a4d241a58b4d59f8447&position=11&results_level=second-level-results&search_index=product&term=Psychology&campaign=Abnormal+Psychology&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
+
+### Berkeley University of California
+- [The Science of Happiness at Work] https://www.edx.org/professional-certificate/berkeleyx-science-of-happiness-at-work
